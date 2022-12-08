@@ -8,7 +8,7 @@ For managing the .bib, I strongly *strongly* advise that you use JabRef as a ver
 
 *IMPORTANT* To make things consistent, please go to preferences --> Citation Key Generator, then change the 'Key Pattern' for two things:
 
-1) Default pattern --> R:[year]_[auth]_[veryshorttitle]
-2) Article --> R:[year]_[auth]_[veryshorttitle]
+1) Default pattern --> R:[year]\_[auth]\_[veryshorttitle]
+2) Article --> R:[year]\_[auth]\_[veryshorttitle]
 
 The purpose here is that we can have a good idea as to how to reference a particular article within LaTeX using this coding. 'R' sets off that this is a reference, and then the rest picks out which article we care about. 
